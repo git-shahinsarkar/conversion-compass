@@ -29,14 +29,20 @@ export const Route = createRootRoute({
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
-      { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { title: "Attention Anatomy — ৩০ দিনে সেলস দ্বিগুণ করার সিস্টেম" },
+      {
+        name: "description",
+        content:
+          "CRO-অপ্টিমাইজড ল্যান্ডিং পেজ ও সাইকোলজিক্যাল সেলস ট্রিগার ব্যবহার করে ৩০ দিনের মধ্যেই আপনার সেলস দ্বিগুণ করুন।",
+      },
+      { name: "author", content: "Attention Anatomy" },
+      { property: "og:title", content: "Attention Anatomy — ৩০ দিনে সেলস দ্বিগুণ" },
+      {
+        property: "og:description",
+        content: "Bangladeshi market-proven ফানেল ফর্মুলা। ৩,০০০+ উদ্যোক্তা ব্যবহার করছেন।",
+      },
       { property: "og:type", content: "website" },
-      { name: "twitter:card", content: "summary" },
-      { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:card", content: "summary_large_image" },
     ],
     links: [
       {
