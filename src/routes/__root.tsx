@@ -36,13 +36,19 @@ export const Route = createRootRoute({
           "CRO-অপ্টিমাইজড ল্যান্ডিং পেজ ও সাইকোলজিক্যাল সেলস ট্রিগার ব্যবহার করে ৩০ দিনের মধ্যেই আপনার সেলস দ্বিগুণ করুন।",
       },
       { name: "author", content: "Attention Anatomy" },
-      { property: "og:title", content: "Attention Anatomy — ৩০ দিনে সেলস দ্বিগুণ" },
+      { property: "og:title", content: "Attention Anatomy — ৩০ দিনে সেলস দ্বিগুণ করার সিস্টেম" },
       {
         property: "og:description",
         content: "Bangladeshi market-proven ফানেল ফর্মুলা। ৩,০০০+ উদ্যোক্তা ব্যবহার করছেন।",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:title", content: "Attention Anatomy — ৩০ দিনে সেলস দ্বিগুণ করার সিস্টেম" },
+      { name: "description", content: "Conversion Compass builds high-converting landing pages using proven sales psychology and a CRO-optimized structure." },
+      { property: "og:description", content: "Conversion Compass builds high-converting landing pages using proven sales psychology and a CRO-optimized structure." },
+      { name: "twitter:description", content: "Conversion Compass builds high-converting landing pages using proven sales psychology and a CRO-optimized structure." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/7501d533-d774-47fd-96ad-e3a28dfa9b30/id-preview-2ed23789--72468025-31cd-495f-9bba-0d1ac110c602.lovable.app-1777338213865.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/7501d533-d774-47fd-96ad-e3a28dfa9b30/id-preview-2ed23789--72468025-31cd-495f-9bba-0d1ac110c602.lovable.app-1777338213865.png" },
     ],
     links: [
       {
